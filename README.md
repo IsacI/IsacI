@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/isac-narcizo-baroni-bazzani-3624b4212//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Isac's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacI&bg_color=ffff&color=0d1117&line=51D9FF&point=00e1ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Isac's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacI&bg_color=ffff&color=00fad0&line=51D9FF&point=00e1ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IsacI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
