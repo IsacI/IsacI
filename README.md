@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Isac+Baroni;Tenho+19+anos+de+idade;Sou+Developer+;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-## 💻 Linguagens que estudo no momento:
+## 💻 Linguagens que aprendi:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
